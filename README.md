@@ -1,5 +1,5 @@
 # Eventphy
-A student proyect maked by Demelphy and supervised by ASantos.
+A student project maked by Demelphy and supervised by ASantos.
 
 This application have two sides.
 If you are a company, you can:
