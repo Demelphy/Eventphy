@@ -1,10 +1,12 @@
 # Eventphy
 A student proyect maked by Demelphy and supervised by ASantos.
+
 This application have two sides.
 If you are a company, you can:
 - Manage your events
 - Sell your tickets
 - Check your simulated-bank balance
+
 Otherwise, you can:
 - Buy tickets for diferent events
 - Check your simulated-bank balance
